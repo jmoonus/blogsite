@@ -1,1 +1,1 @@
-Do the thing
+Blog practice for JS, Node.js, HTML, CSS 
